@@ -1,0 +1,11 @@
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\bin\Debug\netcoreapp3.0\ProvaDTI.exe
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\bin\Debug\netcoreapp3.0\ProvaDTI.deps.json
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\bin\Debug\netcoreapp3.0\ProvaDTI.runtimeconfig.json
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\bin\Debug\netcoreapp3.0\ProvaDTI.runtimeconfig.dev.json
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\bin\Debug\netcoreapp3.0\ProvaDTI.dll
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\bin\Debug\netcoreapp3.0\ProvaDTI.pdb
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\obj\Debug\netcoreapp3.0\ProvaDTI.csprojAssemblyReference.cache
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\obj\Debug\netcoreapp3.0\ProvaDTI.AssemblyInfoInputs.cache
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\obj\Debug\netcoreapp3.0\ProvaDTI.AssemblyInfo.cs
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\obj\Debug\netcoreapp3.0\ProvaDTI.dll
+C:\Users\Antônio Carlos\source\repos\ProvaDTI\ProvaDTI\obj\Debug\netcoreapp3.0\ProvaDTI.pdb
