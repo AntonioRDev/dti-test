@@ -73,7 +73,10 @@ namespace ProvaDTI.Databases
                     });
 
                     if (caloricGroupCount + food.CaloricAmount <= caloricGoal && isDifferentGroup)
+                    {
                         foodGroup.Add(food);
+                        break;
+                    }
                 }
             }
 

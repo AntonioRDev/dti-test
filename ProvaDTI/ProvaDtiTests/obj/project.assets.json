@@ -5281,11 +5281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antônio Carlos\\source\\repos\\ProvaDTI\\ProvaDtiTests\\ProvaDtiTests.csproj",
+      "projectUniqueName": "C:\\Users\\Antônio Carlos\\Documents\\Projetos\\dti-test\\ProvaDTI\\ProvaDtiTests\\ProvaDtiTests.csproj",
       "projectName": "ProvaDtiTests",
-      "projectPath": "C:\\Users\\Antônio Carlos\\source\\repos\\ProvaDTI\\ProvaDtiTests\\ProvaDtiTests.csproj",
+      "projectPath": "C:\\Users\\Antônio Carlos\\Documents\\Projetos\\dti-test\\ProvaDTI\\ProvaDtiTests\\ProvaDtiTests.csproj",
       "packagesPath": "C:\\Users\\Antônio Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antônio Carlos\\source\\repos\\ProvaDTI\\ProvaDtiTests\\obj\\",
+      "outputPath": "C:\\Users\\Antônio Carlos\\Documents\\Projetos\\dti-test\\ProvaDTI\\ProvaDtiTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Antônio Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5301,8 +5301,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Antônio Carlos\\source\\repos\\ProvaDTI\\ProvaDTI\\ProvaDTI.csproj": {
-              "projectPath": "C:\\Users\\Antônio Carlos\\source\\repos\\ProvaDTI\\ProvaDTI\\ProvaDTI.csproj"
+            "C:\\Users\\Antônio Carlos\\Documents\\Projetos\\dti-test\\ProvaDTI\\ProvaDTI\\ProvaDTI.csproj": {
+              "projectPath": "C:\\Users\\Antônio Carlos\\Documents\\Projetos\\dti-test\\ProvaDTI\\ProvaDTI\\ProvaDTI.csproj"
             }
           }
         }

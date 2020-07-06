@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antônio Carlos\\source\\repos\\ProvaDTI\\ProvaDTI\\ProvaDTI.csproj",
+      "projectUniqueName": "C:\\Users\\Antônio Carlos\\Documents\\Projetos\\dti-test\\ProvaDTI\\ProvaDTI\\ProvaDTI.csproj",
       "projectName": "ProvaDTI",
-      "projectPath": "C:\\Users\\Antônio Carlos\\source\\repos\\ProvaDTI\\ProvaDTI\\ProvaDTI.csproj",
+      "projectPath": "C:\\Users\\Antônio Carlos\\Documents\\Projetos\\dti-test\\ProvaDTI\\ProvaDTI\\ProvaDTI.csproj",
       "packagesPath": "C:\\Users\\Antônio Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antônio Carlos\\source\\repos\\ProvaDTI\\ProvaDTI\\obj\\",
+      "outputPath": "C:\\Users\\Antônio Carlos\\Documents\\Projetos\\dti-test\\ProvaDTI\\ProvaDTI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Antônio Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
