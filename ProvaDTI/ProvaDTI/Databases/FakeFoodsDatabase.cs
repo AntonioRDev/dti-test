@@ -34,6 +34,7 @@ namespace ProvaDTI.Databases
             Foods.AddRange(foods);
         }
 
+        //Função principal do sistema que faz o match dos grupos de 3 alimentos para a dieta
         public static List<List<Food>> DietCombination(double caloricGoal)
         {
             var dietFoods = new List<List<Food>>();
